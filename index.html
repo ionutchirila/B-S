@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="ro">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Tesla la încărcat acum · România</title>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+      crossorigin=""
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="app">
+      <aside class="sidebar">
+        <header class="brand">
+          <div class="logo" aria-hidden="true"></div>
+          <div>
+            <h1>Tesla la încărcat</h1>
+            <p class="subtitle">Stații Supercharger deschise acum în România</p>
+          </div>
+        </header>
+
+        <section class="stats" id="stats">
+          <div class="stat">
+            <span class="stat-value" id="stat-open">—</span>
+            <span class="stat-label">Deschise acum</span>
+          </div>
+          <div class="stat">
+            <span class="stat-value" id="stat-stalls">—</span>
+            <span class="stat-label">Locuri (stalls)</span>
+          </div>
+          <div class="stat">
+            <span class="stat-value" id="stat-upcoming">—</span>
+            <span class="stat-label">În pregătire</span>
+          </div>
+        </section>
+
+        <p class="updated" id="updated">Se încarcă datele live…</p>
+
+        <div class="filters">
+          <label class="search">
+            <span class="sr-only">Caută stație</span>
+            <input
+              id="search"
+              type="search"
+              placeholder="Caută oraș sau stație"
+              autocomplete="off"
+            />
+          </label>
+          <div class="chips" role="tablist" aria-label="Filtru stare">
+            <button class="chip active" data-filter="open" type="button">
+              Disponibile acum
+            </button>
+            <button class="chip" data-filter="upcoming" type="button">
+              În pregătire
+            </button>
+            <button class="chip" data-filter="all" type="button">Toate</button>
+          </div>
+        </div>
+
+        <ol class="site-list" id="site-list"></ol>
+      </aside>
+
+      <main class="map-wrap">
+        <div id="map" role="application" aria-label="Hartă Superchargere Tesla"></div>
+        <div class="legend">
+          <span><i class="dot open"></i> Deschisă acum</span>
+          <span><i class="dot construction"></i> Construcție</span>
+          <span><i class="dot plan"></i> Planificată</span>
+        </div>
+      </main>
+    </div>
+
+    <script
+      src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+      crossorigin=""
+    ></script>
+    <script src="app.js" type="module"></script>
+  </body>
+</html>
