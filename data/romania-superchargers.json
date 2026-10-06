@@ -1,0 +1,684 @@
+[
+  {
+    "id": 10804,
+    "locationId": "478855",
+    "name": "Drobeta-Turnu Severin, Romania",
+    "status": "OPEN",
+    "city": "Drobeta-Turnu Severin",
+    "street": "Bulevardul Mihai Viteazul 78",
+    "state": "Mehedinți",
+    "zip": "220069",
+    "lat": 44.637932,
+    "lng": 22.63405,
+    "dateOpened": "2026-09-15",
+    "stallCount": 8,
+    "powerKilowatt": 250,
+    "otherEVs": true,
+    "facilityName": "Severin Shopping Center",
+    "stalls": {
+      "v4": 8
+    },
+    "plugs": {
+      "ccs2": 8
+    }
+  },
+  {
+    "id": 10730,
+    "locationId": "444808",
+    "name": "Constanta, Romania",
+    "status": "PLAN",
+    "city": "Lazu",
+    "street": "Strada Ion Ianculeț",
+    "state": "Constanța",
+    "zip": "907015",
+    "lat": 44.115538,
+    "lng": 28.604468,
+    "dateOpened": null,
+    "stallCount": 0,
+    "powerKilowatt": 250,
+    "otherEVs": true,
+    "facilityName": null,
+    "stalls": null,
+    "plugs": null
+  },
+  {
+    "id": 10709,
+    "locationId": "456164",
+    "name": "Sibiu, Romania - Calea Șurii Mari",
+    "status": "OPEN",
+    "city": "Sibiu",
+    "street": "Calea Șurii Mari 38B",
+    "state": "Sibiu",
+    "zip": "550089",
+    "lat": 45.823099,
+    "lng": 24.144329,
+    "dateOpened": "2026-06-11",
+    "stallCount": 12,
+    "powerKilowatt": 250,
+    "otherEVs": true,
+    "facilityName": "Prima Shopping Center",
+    "stalls": {
+      "v4": 12,
+      "accessible": 1,
+      "trailerFriendly": 0
+    },
+    "plugs": {
+      "ccs2": 12
+    }
+  },
+  {
+    "id": 10731,
+    "locationId": "451221",
+    "name": "Bucharest, Romania - Calea Ion Zăvoi",
+    "status": "PLAN",
+    "city": "București",
+    "street": "Calea Ion Zăvoi 2",
+    "state": "București",
+    "zip": "077190",
+    "lat": 44.504911,
+    "lng": 26.088075,
+    "dateOpened": null,
+    "stallCount": 0,
+    "powerKilowatt": 250,
+    "otherEVs": true,
+    "facilityName": null,
+    "stalls": null,
+    "plugs": null
+  },
+  {
+    "id": 10732,
+    "locationId": "4008273",
+    "name": "Focsani, Romania",
+    "status": "PLAN",
+    "city": "Focșani",
+    "street": "Calea Moldovei 32",
+    "state": "Vrancea",
+    "zip": "620157",
+    "lat": 45.703761,
+    "lng": 27.203614,
+    "dateOpened": null,
+    "stallCount": 0,
+    "powerKilowatt": 250,
+    "otherEVs": true,
+    "facilityName": null,
+    "stalls": null,
+    "plugs": null
+  },
+  {
+    "id": 8046,
+    "locationId": "4001220",
+    "name": "Deva, Romania",
+    "status": "VOTING",
+    "city": "Deva",
+    "street": "Strada Ciprian Porumbescu",
+    "state": "Hunedoara",
+    "zip": "330098",
+    "lat": 45.873157,
+    "lng": 22.908563,
+    "dateOpened": null,
+    "stallCount": 8,
+    "powerKilowatt": 250,
+    "otherEVs": true,
+    "facilityName": null,
+    "stalls": {
+      "v4": 8
+    },
+    "plugs": {
+      "ccs2": 8
+    }
+  },
+  {
+    "id": 9521,
+    "locationId": "447709",
+    "name": "Targu Mures, Romania",
+    "status": "PLAN",
+    "city": "Târgu Mureș",
+    "street": "Strada Gheorghe Doja 243",
+    "state": "Mureș",
+    "zip": "540236",
+    "lat": 46.509828,
+    "lng": 24.508961,
+    "dateOpened": null,
+    "stallCount": 12,
+    "powerKilowatt": 250,
+    "otherEVs": true,
+    "facilityName": null,
+    "stalls": {
+      "v4": 12
+    },
+    "plugs": {
+      "ccs2": 12
+    }
+  },
+  {
+    "id": 9520,
+    "locationId": "4008311",
+    "name": "Arad, Romania",
+    "status": "PLAN",
+    "city": "Arad",
+    "street": "Aurel Vlaicu 306",
+    "state": "Arad",
+    "zip": "310375",
+    "lat": 46.203169,
+    "lng": 21.248505,
+    "dateOpened": null,
+    "stallCount": 12,
+    "powerKilowatt": 250,
+    "otherEVs": true,
+    "facilityName": null,
+    "stalls": {
+      "v4": 12
+    },
+    "plugs": {
+      "ccs2": 12
+    }
+  },
+  {
+    "id": 8928,
+    "locationId": "4008374",
+    "name": "Buzău, Romania",
+    "status": "OPEN",
+    "city": "Buzău",
+    "street": "Bulevardul Unirii 301A",
+    "state": "Buzău",
+    "zip": "120006",
+    "lat": 45.164247,
+    "lng": 26.814282,
+    "dateOpened": "2025-02-12",
+    "stallCount": 12,
+    "powerKilowatt": 250,
+    "otherEVs": true,
+    "facilityName": "Galleria Mall",
+    "stalls": {
+      "v4": 12,
+      "trailerFriendly": 0
+    },
+    "plugs": {
+      "ccs2": 12
+    }
+  },
+  {
+    "id": 9522,
+    "locationId": "32852",
+    "name": "Bucharest Militari, Romania",
+    "status": "CONSTRUCTION",
+    "city": "Domnești",
+    "street": "Str. Comerțului 19A",
+    "state": "București",
+    "zip": "077090",
+    "lat": 44.435964,
+    "lng": 25.958035,
+    "dateOpened": null,
+    "stallCount": 12,
+    "powerKilowatt": 250,
+    "otherEVs": true,
+    "facilityName": null,
+    "stalls": {
+      "v4": 12
+    },
+    "plugs": {
+      "ccs2": 12
+    }
+  },
+  {
+    "id": 11184,
+    "locationId": "478707",
+    "name": "Ilia, Romania",
+    "status": "PLAN",
+    "city": "Ilia",
+    "street": "Strada Libertății 148",
+    "state": "Hunedoara",
+    "zip": "337270",
+    "lat": 45.94103,
+    "lng": 22.644301,
+    "dateOpened": null,
+    "stallCount": 0,
+    "powerKilowatt": 250,
+    "otherEVs": true,
+    "facilityName": null,
+    "stalls": null,
+    "plugs": null
+  },
+  {
+    "id": 11181,
+    "locationId": "4008271",
+    "name": "Suceava, Romania",
+    "status": "PLAN",
+    "city": "Suceava",
+    "street": "Cal. Unirii 35",
+    "state": "Suceava",
+    "zip": "720165",
+    "lat": 47.655817,
+    "lng": 26.261916,
+    "dateOpened": null,
+    "stallCount": 0,
+    "powerKilowatt": 250,
+    "otherEVs": true,
+    "facilityName": null,
+    "stalls": null,
+    "plugs": null
+  },
+  {
+    "id": 11183,
+    "locationId": "484203",
+    "name": "Drajna Nouă, Romania",
+    "status": "PLAN",
+    "city": "Drajna Nouă",
+    "street": "Strada Soarelui",
+    "state": "Călărași",
+    "zip": "917080",
+    "lat": 44.416197,
+    "lng": 27.374391,
+    "dateOpened": null,
+    "stallCount": 0,
+    "powerKilowatt": 250,
+    "otherEVs": true,
+    "facilityName": null,
+    "stalls": null,
+    "plugs": null
+  },
+  {
+    "id": 11461,
+    "locationId": "495374",
+    "name": "Sebeș, Romania",
+    "status": "VOTING",
+    "city": "Sebeș",
+    "street": "x",
+    "state": "Alba",
+    "zip": "515800",
+    "lat": 45.948362,
+    "lng": 23.585659,
+    "dateOpened": null,
+    "stallCount": 0,
+    "powerKilowatt": 250,
+    "otherEVs": true,
+    "facilityName": null,
+    "stalls": null,
+    "plugs": null
+  },
+  {
+    "id": 11754,
+    "locationId": "4008276",
+    "name": "Bărcănești, Romania",
+    "status": "PLAN",
+    "city": "Bărcănești",
+    "street": "Strada Bărcănești",
+    "state": "Prahova",
+    "zip": "107055",
+    "lat": 44.885759,
+    "lng": 26.042178,
+    "dateOpened": null,
+    "stallCount": 0,
+    "powerKilowatt": 0,
+    "otherEVs": true,
+    "facilityName": null,
+    "stalls": null,
+    "plugs": null
+  },
+  {
+    "id": 9273,
+    "locationId": "4008272",
+    "name": "Iași, Romania",
+    "status": "CONSTRUCTION",
+    "city": "Brătuleni",
+    "street": "Strada Carului 1",
+    "state": "Iași",
+    "zip": "707307",
+    "lat": 47.186033,
+    "lng": 27.455192,
+    "dateOpened": null,
+    "stallCount": 8,
+    "powerKilowatt": 250,
+    "otherEVs": true,
+    "facilityName": null,
+    "stalls": {
+      "v4": 8
+    },
+    "plugs": {
+      "ccs2": 8
+    }
+  },
+  {
+    "id": 9274,
+    "locationId": "4001309",
+    "name": "Bacău, Romania",
+    "status": "VOTING",
+    "city": "Bacău",
+    "street": "Calea Bârladului 211",
+    "state": "Bacău",
+    "zip": "607271",
+    "lat": 46.585946,
+    "lng": 26.954977,
+    "dateOpened": null,
+    "stallCount": 0,
+    "powerKilowatt": 250,
+    "otherEVs": true,
+    "facilityName": null,
+    "stalls": null,
+    "plugs": null
+  },
+  {
+    "id": 9629,
+    "locationId": "4008270",
+    "name": "Satu Mare, Romania",
+    "status": "OPEN",
+    "city": "Satu Mare",
+    "street": "17 Str. Careiului",
+    "state": "Satu Mare",
+    "zip": "440187",
+    "lat": 47.784997,
+    "lng": 22.871666,
+    "dateOpened": "2026-03-31",
+    "stallCount": 8,
+    "powerKilowatt": 250,
+    "otherEVs": true,
+    "facilityName": "Shopping City Satu Mare",
+    "stalls": {
+      "v4": 8,
+      "accessible": 1,
+      "trailerFriendly": 0
+    },
+    "plugs": {
+      "ccs2": 8
+    }
+  },
+  {
+    "id": 9628,
+    "locationId": "28917",
+    "name": "Galați, Romania",
+    "status": "OPEN",
+    "city": "Galați",
+    "street": "Bulevardul George Coșbuc 251",
+    "state": "Galați",
+    "zip": "800552",
+    "lat": 45.452461,
+    "lng": 28.033853,
+    "dateOpened": "2026-03-19",
+    "stallCount": 8,
+    "powerKilowatt": 250,
+    "otherEVs": true,
+    "facilityName": null,
+    "stalls": {
+      "v4": 8,
+      "accessible": 1,
+      "trailerFriendly": 0
+    },
+    "plugs": {
+      "ccs2": 8
+    }
+  },
+  {
+    "id": 9744,
+    "locationId": "444952",
+    "name": "Oradea, Romania",
+    "status": "OPEN",
+    "city": "Oradea",
+    "street": "Calea Aradului 87",
+    "state": "Bihor",
+    "zip": "410233",
+    "lat": 47.043379,
+    "lng": 21.897025,
+    "dateOpened": "2025-04-15",
+    "stallCount": 12,
+    "powerKilowatt": 250,
+    "otherEVs": true,
+    "facilityName": "Oradea Shopping City",
+    "stalls": {
+      "v4": 12,
+      "accessible": 1,
+      "trailerFriendly": 0
+    },
+    "plugs": {
+      "ccs2": 12
+    }
+  },
+  {
+    "id": 10115,
+    "locationId": "441114",
+    "name": "Timișoara, Romania - Calea Torontalului",
+    "status": "OPEN",
+    "city": "Timișoara",
+    "street": "Calea Torontalului 69",
+    "state": "Timiș",
+    "zip": "320056",
+    "lat": 45.77407,
+    "lng": 21.211615,
+    "dateOpened": "2025-10-03",
+    "stallCount": 12,
+    "powerKilowatt": 250,
+    "otherEVs": true,
+    "facilityName": null,
+    "stalls": {
+      "v4": 12,
+      "accessible": 1,
+      "trailerFriendly": 0
+    },
+    "plugs": {
+      "ccs2": 12
+    }
+  },
+  {
+    "id": 3280,
+    "locationId": "Timisoararosupercharger",
+    "name": "Timișoara, Romania",
+    "status": "OPEN",
+    "city": "Timișoara",
+    "street": "Bulevardul Revoluției din 1989 2A",
+    "state": "Timiș",
+    "zip": "300085",
+    "lat": 45.755112,
+    "lng": 21.233148,
+    "dateOpened": "2021-04-14",
+    "stallCount": 6,
+    "powerKilowatt": 250,
+    "otherEVs": true,
+    "facilityName": null,
+    "stalls": {
+      "v3": 6,
+      "accessible": 0,
+      "trailerFriendly": 0
+    },
+    "plugs": {
+      "ccs2": 6
+    }
+  },
+  {
+    "id": 5373,
+    "locationId": "clujnapoca",
+    "name": "Cluj-Napoca, Romania",
+    "status": "OPEN",
+    "city": "Florești",
+    "street": "Strada Avram Iancu 500",
+    "state": "Cluj",
+    "zip": "407280",
+    "lat": 46.753745,
+    "lng": 23.532587,
+    "dateOpened": "2022-11-25",
+    "stallCount": 8,
+    "powerKilowatt": 250,
+    "otherEVs": true,
+    "facilityName": null,
+    "stalls": {
+      "v3": 8,
+      "accessible": 0,
+      "trailerFriendly": 8
+    },
+    "plugs": {
+      "ccs2": 8
+    }
+  },
+  {
+    "id": 3282,
+    "locationId": "bucharestsupercharger",
+    "name": "Bucharest, Romania",
+    "status": "OPEN",
+    "city": "București",
+    "street": "Calea Floreasca 246B",
+    "state": "București",
+    "zip": "014476",
+    "lat": 44.478187,
+    "lng": 26.103421,
+    "dateOpened": "2021-04-16",
+    "stallCount": 8,
+    "powerKilowatt": 250,
+    "otherEVs": true,
+    "facilityName": null,
+    "stalls": {
+      "v3": 8,
+      "accessible": 0,
+      "trailerFriendly": 0
+    },
+    "plugs": {
+      "ccs2": 8
+    }
+  },
+  {
+    "id": 3440,
+    "locationId": "Pitestirosupercharger",
+    "name": "Pitești, Romania",
+    "status": "OPEN",
+    "city": "Pitești",
+    "street": "DN65B F4",
+    "state": "Arges",
+    "zip": "117140",
+    "lat": 44.823477,
+    "lng": 24.910021,
+    "dateOpened": "2021-06-29",
+    "stallCount": 6,
+    "powerKilowatt": 250,
+    "otherEVs": true,
+    "facilityName": null,
+    "stalls": {
+      "v3": 6,
+      "accessible": 0,
+      "trailerFriendly": 2
+    },
+    "plugs": {
+      "ccs2": 6
+    }
+  },
+  {
+    "id": 3457,
+    "locationId": "Sibiurosupercharger",
+    "name": "Sibiu, Romania",
+    "status": "OPEN",
+    "city": "Șelimbăr",
+    "street": "Strada Sibiului 5",
+    "state": "Sibiu",
+    "zip": "557260",
+    "lat": 45.775518,
+    "lng": 24.170902,
+    "dateOpened": "2021-06-30",
+    "stallCount": 6,
+    "powerKilowatt": 250,
+    "otherEVs": true,
+    "facilityName": null,
+    "stalls": {
+      "v3": 6,
+      "accessible": 0,
+      "trailerFriendly": 3
+    },
+    "plugs": {
+      "ccs2": 6
+    }
+  },
+  {
+    "id": 3640,
+    "locationId": "ConstantaSupercharger",
+    "name": "Constanța, Romania",
+    "status": "OPEN",
+    "city": "Constanța",
+    "street": "Bulevardul Alexandru Lapusneanu 116C",
+    "state": "Constanța",
+    "zip": "900419",
+    "lat": 44.203265,
+    "lng": 28.631145,
+    "dateOpened": "2021-09-16",
+    "stallCount": 6,
+    "powerKilowatt": 250,
+    "otherEVs": true,
+    "facilityName": null,
+    "stalls": {
+      "v3": 6,
+      "accessible": 0,
+      "trailerFriendly": 0
+    },
+    "plugs": {
+      "ccs2": 6
+    }
+  },
+  {
+    "id": 7273,
+    "locationId": "28918",
+    "name": "Brașov, Romania",
+    "status": "OPEN",
+    "city": "Brașov",
+    "street": "Str. Zaharia Stancu 1",
+    "state": "Brașov",
+    "zip": "500167",
+    "lat": 45.671701,
+    "lng": 25.619676,
+    "dateOpened": "2026-06-09",
+    "stallCount": 12,
+    "powerKilowatt": 250,
+    "otherEVs": true,
+    "facilityName": null,
+    "stalls": {
+      "v4": 12,
+      "trailerFriendly": 0
+    },
+    "plugs": {
+      "ccs2": 12
+    }
+  },
+  {
+    "id": 7021,
+    "locationId": "288675",
+    "name": "Craiova, Romania",
+    "status": "OPEN",
+    "city": "Craiova",
+    "street": "Calea Severinului 61",
+    "state": "Dolj",
+    "zip": "200769",
+    "lat": 44.328837,
+    "lng": 23.772354,
+    "dateOpened": "2023-10-05",
+    "stallCount": 8,
+    "powerKilowatt": 250,
+    "otherEVs": true,
+    "facilityName": null,
+    "stalls": {
+      "v3": 8,
+      "accessible": 0,
+      "trailerFriendly": 8
+    },
+    "plugs": {
+      "ccs2": 8
+    }
+  },
+  {
+    "id": 7257,
+    "locationId": "328485",
+    "name": "Bucharest, Romania - Bulevardul Pierre de Coubertin",
+    "status": "OPEN",
+    "city": "Bucharest",
+    "street": "Bulevardul Pierre de Coubertin 3-5",
+    "state": "București",
+    "zip": "021901",
+    "lat": 44.441069,
+    "lng": 26.154421,
+    "dateOpened": "2023-12-07",
+    "stallCount": 14,
+    "powerKilowatt": 250,
+    "otherEVs": true,
+    "facilityName": null,
+    "stalls": {
+      "v3": 14,
+      "accessible": 0,
+      "trailerFriendly": 0
+    },
+    "plugs": {
+      "ccs2": 14
+    }
+  }
+]
